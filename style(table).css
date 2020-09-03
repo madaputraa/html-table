@@ -1,0 +1,14 @@
+#tabel th {
+	background-color: #FFA500;
+	padding: 10px
+}
+#tabel tr td {
+	text-align: center;
+	padding: 6px;
+}	
+#tabel th {
+	font-size: 30px;
+}
+#tabel tr {
+	font-size: 17px;
+}
